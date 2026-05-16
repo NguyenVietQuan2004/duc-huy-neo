@@ -1,0 +1,701 @@
+[
+  {
+    "_id": 1,
+    "name": "Chạm On/Off  - NEOPER; THỤY SĨ ",
+    "masp": "HP-2065-E",
+    "status": "active",
+    "slug": "Cham-On/Off----NEOPER;-THUY-SI-",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 200000,
+    "link_shopee": "",
+    "link_ytb": "",
+    "sale_price": null,
+    "content": "<ul style=\"list-style-type:square\">\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><strong>Xuất xứ</strong>: Đ&agrave;i Loan</tt></span></span></h2>\r\n\t</li>\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Đầu v&ograve;i đ&oacute;ng/mở d&ograve;ng nước</tt></span></span></h2>\r\n\t</li>\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>M&agrave;u sắc: Bạc</tt></span></span></h2>\r\n\t</li>\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Nguy&ecirc;n liệu: Đồng mạ chrom,Mở/Đ&oacute;ng nước bằng c&aacute;ch nhấn n&uacute;t xanh</tt></span></span></h2>\r\n\t</li>\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Tiết tiệm đến 45% nước</tt></span></span></h2>\r\n\t</li>\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Ph&ugrave; hợp nhiều loại v&ograve;i nước&nbsp;</tt></span></span></h2>\r\n\t</li>\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Dễ d&agrave;ng lắp đặt v&agrave; sử dụng &nbsp; &nbsp; &nbsp;</tt></span></span></h2>\r\n\t</li>\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Loại bỏ nguy cơ l&acirc;y virus</tt></span></span></h2>\r\n\t</li>\r\n\t<li style=\"text-align:justify\">\r\n\t<h2 style=\"font-style:italic\"><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>&Aacute;p suất sử dụng: 1-10 kgf.cm2</tt></span></span></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1710479806/md20_image_storage/2z1s8I1BYbnvrZDCRG8J84X7P0uBtpX3tkH3LnnYlExzYjNSOXiIOZSsghK896bu3N9gp2dwipwLi6ldhlQbbEnT3SUHzM66NDo.png"
+    ],
+    "id_category": "1",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2024-03-04T03:32:35.029Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T05:31:28.947Z"
+    },
+    "__v": 0,
+    "series": "Hihippo"
+  },
+  {
+    "_id": 2,
+    "name": "Đầu lọc MIKADO - NEOPERL (Thụy Sĩ)",
+    "masp": "407D60000",
+    "series": "Dòng  Designer",
+    "status": "active",
+    "slug": "Dau-loc-MIKADO---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 100000,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/ezq4AtGD1SI?si=hH5xTHKyTmn9xZmP",
+    "sale_price": null,
+    "content": "<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>&nbsp;- Xuất xứ</strong>: Đức</span></span></em></h2>\r\n\r\n<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;- Đầu lọc size ti&ecirc;u chuẩn</span></span></em></h2>\r\n\r\n<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;- Kiểu tia</span></span></em></h2>\r\n\r\n<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;- Lưu lượng 5.0 l/p</span></span></em></h2>\r\n\r\n<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">&nbsp;- Ph&ugrave; hợp nh&agrave; chung cư (&aacute;p lực cao)</span></span></em></h2>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1710036103/md20_image_storage/0VUMUVWpqmgN4O863uZcF7rn1I9gIRn9lut0cWOnbOpbyitLB8PHThXuJnI1ooAh91ri9rv4RXlf78RZipZsO77iprtwjILkE3A.webp",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1710480973/md20_image_storage/lS9LY5WZrVWuSvSoeghjl6ULAJWOX66A1BtImwKpm6q1t1sbpVXMkbqk5YrFGDO26k0pizvMAMOaTMQfsH5IKdT7oGSK7gdOcgO.webp",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1710480974/md20_image_storage/bUtJtqskMhNxcCjJM7gmVLscYnlsLTsp3hB9b7qsXFFFEyTlwKWyE7U9J0ncZJl4ONQqKMisFQnp1xJVmD13oWrlAsaVwNn0RYZ.webp"
+    ],
+    "id_category": "1",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2024-03-04T04:35:37.023Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-26T05:07:55.077Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 3,
+    "name": "Đầu lọc nước Kiểu chùm tia - NEOPERL (Thụy Sĩ)",
+    "masp": "407630000",
+    "series": "Spray ITR",
+    "status": "active",
+    "slug": "Dau-loc-nuoc-Kieu-chum-tia---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 130000,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/-bc3kStnkoA?si=ifYvd9ctiAGpp5mg",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><strong>Xuất xứ</strong>: Đức</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><strong>Chức năng nổi bật</strong>: 7 lpm max</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Đầu v&ograve;i size ti&ecirc;u chuẩn</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Kiểu chảy ch&ugrave;m tia</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>V flow</tt></span></span></em></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "2",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2024-03-04T04:54:18.081Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T04:54:18.081Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 4,
+    "name": "Đầu lọc trong suốt/ ko tiếng ồn - NEOPERL (Thụy Sĩ)",
+    "masp": "20660000",
+    "series": "Pure",
+    "status": "active",
+    "slug": "Dau-loc-trong-suot/-ko-tieng-on---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": null,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/ezq4AtGD1SI?si=GDNb2AfGsvzbhty5",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><strong>Xuất xứ:</strong> Đức</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><strong>Chức năng nổi bật</strong>:&nbsp;8.0l/p</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><strong>Optional:</strong>&nbsp;Insert/ M22x1/M24x1</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Đầu v&ograve;i lavabo/ bếp</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>D&ograve;ng chảy trong suốt</tt></span></span></em></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><em><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt>Kh&ocirc;ng tiếng ồn</tt></span></span></em></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "2",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2024-03-04T04:59:24.559Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T04:59:24.559Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 5,
+    "name": "Mini-ecobooster 5-10 l/m - NEOPERL (Thụy Sĩ)",
+    "masp": " 180409000",
+    "series": "Mini -Ecobooster",
+    "status": "active",
+    "slug": "Mini-ecobooster-5-10-l/m---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 200000,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/CGbQxtNsboc?si=Bu42fHga7z_mnztA",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em><strong>Xuất xứ:</strong> Đức</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em><strong>Chức năng nổi bật</strong>: Đầu v&ograve;i 2 chế độ nước (5.0-&gt;10.0 l/p)</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em><strong>Optional</strong>: Đen - Trắng</em></span></span></tt></li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em>Đầu lọc 2 chế độ</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em>D&ugrave;ng cho bếp, v&ograve;i rửa tay</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em>M&agrave;u bạc</em></span></span></tt></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "1",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2024-03-04T05:06:33.902Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T05:06:33.902Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 6,
+    "name": "Đầu lọc không ren STD - NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "PCA Spray",
+    "status": "active",
+    "slug": "Dau-loc-khong-ren-STD---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 80000,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/z9413PeONOY?si=CNTOEkrf2n1tHy6v",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em><strong>Xuất xứ</strong>: Anh</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em><strong>Chức năng nổi bật:</strong>&nbsp;0.35gpm</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em><strong>Optional:</strong>&nbsp;1.32 l/p 1.0 gpm (~3.78l/p)</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em>Đầu lọc size ti&ecirc;u chuẩn</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em>Kiểu tia</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><em>Ph&ugrave; hợp nh&agrave; chung cư (&aacute;p lực cao)</em></span></span></tt></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "4",
+    "id_group_category": "2",
+    "createdAt": {
+      "$date": "2024-03-04T05:09:21.966Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T05:09:21.966Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 7,
+    "name": "Đầu lọc có ren M24x1  - NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "PCW-04",
+    "status": "active",
+    "slug": "Dau-loc-co-ren-M24x1----NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": null,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/pnxersw9FUU?si=0agAbnNldeVMROj5",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Xuất xứ: </strong>Anh</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Optional:</strong>&nbsp;1.32 l/p 1.0 gpm (~3.78l/p)</em></tt></span></span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "4",
+    "id_group_category": "3",
+    "createdAt": {
+      "$date": "2024-03-04T05:11:32.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T08:40:20.006Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 8,
+    "name": "PCW-01 Washer Reg Điều chỉnh lưu lượng -  NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "PCW-01",
+    "status": "active",
+    "slug": "PCW-01-Washer-Reg-Dieu-chinh-luu-luong----NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 55000,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/A9xMCFuHPYo?si=H3Ar-BJdjsZr0Nyc",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\"><em><strong>Xuất xứ: </strong>Anh</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\"><em><strong>Chức năng nổi bật: </strong>9 lpm</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\"><em><strong>Optional:</strong>&nbsp;7l/p - 9l/p</em></span></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\"><em>Gioăng điều chỉnh lưu lượng 9.0 l/p</em></span></span></tt></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "4",
+    "id_group_category": "3",
+    "createdAt": {
+      "$date": "2024-03-04T05:14:02.734Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T05:14:02.734Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 9,
+    "name": "Dây cấp nước, Flexcore PA braiding, 400mm G1/2'' Plastic nut - NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "Saniperl Flexcore",
+    "status": "active",
+    "slug": "Day-cap-nuoc,-Flexcore-PA-braiding,-400mm-G1/2''-Plastic-nut---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 90000,
+    "link_shopee": "",
+    "link_ytb": "",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Xuất xứ: </strong>Th&aacute;i Lan</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Chức năng nổi bật:</strong>40cm</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Optional:</strong>&nbsp;500mm</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>D&acirc;y cấp ruột nhựa, bện PA 400mm, ốc nhựa G1/2&#39;&#39;</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>D&ugrave;ng cấp nước cho bồn vệ sinh</em></tt></span></span></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "5",
+    "id_group_category": "4",
+    "createdAt": {
+      "$date": "2024-03-04T05:16:25.430Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T05:16:25.430Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 10,
+    "name": "Dây cấp nước  PA braiding Brass nut G1/2''  400 mm - NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "Mateu PA",
+    "status": "active",
+    "slug": "Day-cap-nuoc--PA-braiding-Brass-nut-G1/2''--400-mm---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 95000,
+    "link_shopee": "",
+    "link_ytb": "",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Xuất xứ: </strong>Th&aacute;i Lan</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Chức năng nổi bật:</strong> 40cm</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Optional:</strong>&nbsp;400mm - 600mm</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>D&acirc;y cấp EPDM, bện PA 400mm, ốc lục gi&aacute;c đồng G1/2&#39;&#39;</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>D&ugrave;ng cấp nước cho bồn vệ sinh, b&igrave;nh nước n&oacute;ng, v&ograve;i nước, &hellip;.</em></tt></span></span></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "5",
+    "id_group_category": "4",
+    "createdAt": {
+      "$date": "2024-03-04T05:18:51.679Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T05:18:51.679Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 11,
+    "name": "Dây cho vòi sịt Ruột nhựa PE, ngoài bện dây nylong, Ốc đồng  G1/2'', cone nut G1/2'' Dài 1200mm - NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "Dây sịt CLZ ",
+    "status": "active",
+    "slug": "Day-cho-voi-sit-Ruot-nhua-PE,-ngoai-ben-day-nylong,-Oc-dong--G1/2'',-cone-nut-G1/2''-Dai-1200mm---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 230000,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/OnyGPHUwqDg?si=Xb1FNoS9aRtJQO3c",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Xuất xứ:</strong> Trung Quốc</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Chức năng nổi bật:&nbsp;</strong>&nbsp;120cm</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Optional:&nbsp;</strong>M&agrave;u đen - M&agrave;u x&aacute;m</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>D&acirc;y chống xoắn</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>Ốc đồng chuẩn quốc tế</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>D&acirc;y chịu &aacute;p suất b&uacute;a nước đến 15 bar</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>Đạt ti&ecirc;u chuẩn nước uống,</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>Th&acirc;n thiện m&ocirc;i trường,</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>Th&acirc;n mềm mại dễ thao t&aacute;c</em></tt></span></span></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "3",
+    "id_group_category": "5",
+    "createdAt": {
+      "$date": "2024-03-04T05:21:50.649Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T05:21:50.649Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 12,
+    "name": "CLZ shower hose Brass cone G1/2'' Dài 1.8m Color: Silver gray, gray steel, black, pink, violet, blue - NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "\"Dây sen vòi CLZ  \"",
+    "status": "active",
+    "slug": "CLZ-shower-hose-Brass-cone-G1/2''-Dai-1.8m-Color:-Silver-gray,-gray-steel,-black,-pink,-violet,-blue---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 290000,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/OnyGPHUwqDg?si=K4X_di662gUdcixI",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Xuất xứ:</strong> Trung Quốc</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Chức năng nổi bật:&nbsp;</strong>150cm</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em><strong>Optional:</strong> Black cool - Grey - Petrol blue</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>D&acirc;y chống xoắn</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>Ốc đồng chuẩn quốc tế</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>D&acirc;y chịu &aacute;p suất b&uacute;a nước đến 15 bar</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>Đạt ti&ecirc;u chuẩn nước uống,</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>Th&acirc;n thiện m&ocirc;i trường,</em></tt></span></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><tt><em>- Th&acirc;n mềm mại dễ thao t&aacute;c</em></tt></span></span></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "3",
+    "id_group_category": "6",
+    "createdAt": {
+      "$date": "2024-03-04T05:24:46.272Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T05:24:46.272Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 13,
+    "name": "Chất liệu đồng 100% Xoay 780oC -  NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "3D swivel adaptor",
+    "status": "active",
+    "slug": "Chat-lieu-dong-100%-Xoay-780oC----NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": null,
+    "link_shopee": "",
+    "link_ytb": "",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><tt><em><strong>Xuất xứ: </strong>Trung Quốc</em></tt></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><tt><em><strong>Chức năng nổi bật:</strong> 150cm</em></tt></span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><span style=\"font-size:16px\"><tt><em><strong>Optional: </strong>C&oacute; dual stream - Kh&ocirc;ng c&oacute; dual stream</em></tt></span></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [],
+    "id_category": "1",
+    "id_group_category": "7",
+    "createdAt": {
+      "$date": "2024-03-04T05:26:25.172Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-04T05:26:25.172Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 14,
+    "name": "Đầu vòi Dual Stream - NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "Dual stream",
+    "status": "active",
+    "slug": "Dau-voi-Dual-Stream---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 160000,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/MM3B8-sCh0w?si=2rGkjAEMiokh6uxn",
+    "sale_price": null,
+    "content": "<h2><span style=\"font-size:16px\"><em><tt><strong>&nbsp;- Xuất xứ:</strong> Trung Quốc</tt></em></span></h2>\r\n\r\n<h2><span style=\"font-size:16px\"><em><tt>&nbsp;- Chức năng nổi bật:&nbsp;Đầu v&ograve;i 2 kiểu chảy (Kiểu tia v&agrave; tạo bọt)</tt></em></span></h2>\r\n\r\n<h2><span style=\"font-size:16px\"><tt>&nbsp;- Chuyển động quay tối thiểu theo một trong hai hướng cho ph&eacute;p dễ d&agrave;ng chuyển đổi giữa hai luồng: sự thoải m&aacute;i mềm mại v&agrave; luồng phun hiệu quả.</tt></span></h2>\r\n\r\n<h2><span style=\"font-size:16px\"><tt><em>&nbsp;- Dual-Stream c&oacute; thể hướng theo bất kỳ hướng n&agrave;o, chạm tới mọi g&oacute;c trong bồn rửa với g&oacute;c x</em>oay 25&deg;.</tt></span></h2>\r\n\r\n<h2><span style=\"font-size:16px\"><tt>&nbsp;- M&aacute;y sục kh&iacute; Dual-Stream c&oacute; thể thay thế bất kỳ m&aacute;y sục kh&iacute; M22 v&agrave; M24 n&agrave;o.</tt></span></h2>\r\n\r\n<h2><span style=\"font-size:16px\"><tt>&nbsp;- Bộ điều chỉnh lưu lượng DUAL CORE tối đa 1,5 gpm.</tt></span></h2>\r\n\r\n<h2><span style=\"font-size:16px\"><tt>&nbsp;- C&oacute; sẵn cả khi c&oacute; v&agrave; kh&ocirc;ng c&oacute; bộ chuyển đổi xoay cải tiến với g&oacute;c nghi&ecirc;ng 25&deg;.</tt></span></h2>\r\n\r\n<h2><span style=\"font-size:16px\"><tt>&nbsp;- M&aacute;y sục kh&iacute; ph&ugrave; hợp với mọi điều kiện &aacute;p suất</tt></span></h2>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1711431196/md20_image_storage/2Xysp3t18raDXsuKofRQvfH3FCaUBjXPQvOC1lIZvG8hA24ZUwKICk71HziQoe6O8RuberG4Qa7V8zxFZDYOxYDOXc3D67brqQz.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1711431196/md20_image_storage/RMBN3ZSTja5wt9czoS082NBpMUxaBk4Zbx5nIUNG8UcVVOTNju7AbA42bffLYmSasMtwPW3MvGnlCByuQBlqcfvaecgxtEaKtO9.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1711431196/md20_image_storage/W8JyZchiZBQ8VEL97vGzBDYl93pTGgLcbdY6kYCC3JQtGY2HRa0iLPzXFvtq47YbexIU8KkdeUQUL3We63PIighX4zpyITMYRkn.png"
+    ],
+    "id_category": "1",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2024-03-26T05:33:17.161Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-26T05:33:17.161Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 15,
+    "name": "Đầu lọc Micro B - NEOPERL (Thụy Sĩ)",
+    "masp": "",
+    "series": "Micro B",
+    "status": "active",
+    "slug": "Dau-loc-Micro-B---NEOPERL-(Thuy-Si)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": null,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/gf6Y_qcxwP0?si=D4ceb5JgsuLVftmi",
+    "sale_price": null,
+    "content": "<ul>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><em><strong>- Xuất xứ:</strong> Đức</em></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><em><strong>- Chức năng nổi bật:&nbsp;</strong>13-15 lpm</em></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><em><strong>- Tốc độ d&ograve;ng chảy:</strong> M&aacute;y sục kh&iacute; c&oacute; sẵn với tốc độ d&ograve;ng chảy trong khoảng từ 7,5 đến 15 l/ph&uacute;t ở 3 bar (đ&aacute;p ứng c&aacute;c y&ecirc;u cầu về tiếng ồn của EN246).</em></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><em><strong>- K&iacute;ch thước:</strong> C&oacute; k&iacute;ch thước STD (M22/ M24) chỉ ở dạng miếng ch&egrave;n hoặc k&egrave;m theo vỏ.</em></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><em><strong>- Phạm vi &aacute;p suất: </strong>Th&iacute;ch hợp cho phạm vi &aacute;p suất ti&ecirc;u chuẩn từ 1 đến 10 bar.</em></span></tt></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2><tt><span style=\"font-size:16px\"><em><strong>- Hạn chế:</strong> Kh&ocirc;ng th&iacute;ch hợp cho m&aacute;y nước n&oacute;ng kh&ocirc;ng &aacute;p suất.</em></span></tt></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1712037967/md20_image_storage/nPg1FJkUhtjd8nx8iAAw7O7ATMI4CjVggwXCtkEBpqmnHF1mC30RI9k0l8AS71jOOd9JizzJ76W7jRrOJdMr2ei1lUmnsxbtD2y.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1712037967/md20_image_storage/iGOdRrLcLWRPLkhAFwJsM4QHejn0nXrJz7UFxjKZfGBqAc7KexFW7uGPtO98olp6hMZvqL3mVkd8czU4YYZfpjBxVZyD1ItLspV.png"
+    ],
+    "id_category": "1",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2024-04-02T06:06:08.701Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-02T06:06:08.701Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 16,
+    "name": "Saniperl BG",
+    "masp": "",
+    "series": "HH-1002MR",
+    "status": "active",
+    "slug": "Saniperl-BG",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/-qUaPSvCsr8?si=k9gerilnNLw0ozaI",
+    "sale_price": 1,
+    "content": "<p>- Flow rate 2.2 gpm max at 3 bars .<br />\r\n- Aerated Stream. Very Comfortable.<br />\r\n- Manufactured by Neoperl<br />\r\n- M24 Male thread housing &amp; washer included<br />\r\n<strong>- Made in China</strong></p>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735881165/md20_image_storage/nS1G4PwiX0LfU8dI4NMElVcTI56j24peRTV8UdOhVnDL46h6tWDzdK4ptGfzrDGm9Nb3xAc84Mo2IxCXztZ7ehEwMQEoipeDcVy.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735881165/md20_image_storage/UYfHhQxRSp358QRDeHVTt4qLMdNheW55fri5LQ157Wb6tIivJse9ALwbcX6mT0Duuu6tVEfXt1q06M7BF1gf6G3IUsPyRlGZhRx.jpg"
+    ],
+    "id_category": "4",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2025-01-03T05:12:46.552Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:14:19.042Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 17,
+    "name": "Auto Clean ",
+    "masp": "",
+    "series": "HH-1019M",
+    "status": "active",
+    "slug": "Auto-Clean-",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/JmGM-uESs5c?si=w4xU298FRelcxuUR",
+    "sale_price": 1,
+    "content": "<ul>\r\n\t<li><strong>Made in Germany</strong></li>\r\n\t<li>Flush debris out automatically</li>\r\n\t<li>Less than 8 litres per minute flow rate</li>\r\n\t<li>Aerated stream, soft &amp; comfortable</li>\r\n\t<li>Manufactured by Neoperl in Germany</li>\r\n\t<li>Meet international drinking water standard</li>\r\n\t<li>M22 Female Housing &amp; washer included<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735881442/md20_image_storage/dIE6yToQvi7ITvupd91VGqa0eV98g7ggqs8SA0MlxRFWezwNQteIddR51bn7TsdBKwBSa2ifbKBbghkVKE1ffyKVXBMCgUQ9wHQ.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735881442/md20_image_storage/iIhJddWBI5ulHDOnkp7aTcAgPSCm6YdwE0bMMWmwCINBkrdZrlhepiP8yBlUMqzfQFzgPKjgpO1E3RbFQsQAWxDpAHk2hvcJYCS.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735881442/md20_image_storage/cDLKPvHYcPvOFKf2982DzPTfV9xWKOkD7FKmAVuF0AIH20nocfZ0mhyK9cujRvPq45rhzco3bUmydltdeCZZGscg74bPgANiLa2.png"
+    ],
+    "id_category": "4",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2025-01-03T05:17:23.714Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:17:23.714Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 18,
+    "name": "3D Swivel Adaptor ",
+    "masp": "",
+    "series": "HH-10223D ",
+    "status": "active",
+    "slug": "3D-Swivel-Adaptor-",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/_1FYuz9Ay4A?si=yEf1MohTCpSRgdsF",
+    "sale_price": 1,
+    "content": "<ul>\r\n\t<li>3D swivel, enlarge spout coverage</li>\r\n\t<li>+ M24&gt;M22 metal thread. Fit both Male &amp; Female Thread</li>\r\n\t<li>To be installed with an aerator with M22 female thread housing</li>\r\n\t<li><strong>Made in China</strong></li>\r\n</ul>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735881808/md20_image_storage/fK47VOEHXDnh151D77bOxv7CvKa31adjjoSza8xUJlRWXzq1EkxhmhFy8YApPpXkxyp3rxX2bKF8DY93hO4sXwWiXSZa7rH320b.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735881808/md20_image_storage/665Mx2ixVWh5metuYALkb3WwaqNXNuLSwilJD5WTOfQKtgc8SqCQRsqtd5va4jqwQxDAZFnnMHIWSXHfdTkbhBUJ5R2d9Vr7Tid.png"
+    ],
+    "id_category": "4",
+    "id_group_category": "7",
+    "createdAt": {
+      "$date": "2025-01-03T05:23:29.178Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:23:29.178Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 19,
+    "name": "Dual Stream ",
+    "masp": "",
+    "series": "HH-1048S",
+    "status": "active",
+    "slug": "Dual-Stream-",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 0,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/MM3B8-sCh0w?si=3kIuGlgR5qoE5gYP",
+    "sale_price": null,
+    "content": "<p><strong>- German technology. Made in China.</strong><br />\r\n- Manufacturerd by Neoperl<br />\r\n- With both spray &amp; aerated Stream<br />\r\n- with M22 Housing + M22 &gt; M24 plastic adaptor, fit male &amp; female thread installation.<br />\r\n- 6 litre/minute water per minuite maximum<br />\r\n- Unique Dual Core technology. Suitable for high &amp; low water pressure.<br />\r\n- Meet international drinking water regulation.</p>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882045/md20_image_storage/wgdIpYJAdsyrZrQ439Hzf703plaUVwxKpzkgIIb1cAUBWFrcDKsvnoUs1qXHr1HRp2ZckHDiChj422IzY90x3RMSfqwmS2Ys5Hn.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882045/md20_image_storage/uC4H58WvewdigBd1tgKe0vkzsxXNz9IvZdtZaLmJo4NMDVUjhluxen9y4b44kGNYcOTf93re6RVvlu7plqc2stxOSC5a1fdDdQ3.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882046/md20_image_storage/eRyDN3sGPIbZnMjQCbOsd2S6QJj2PfnYQbRnI6U8ywmHcGtJSaWab86F3sJdV6u6GgHowPD79AliiOvgD5NhDgxBPc2CxXODBSP.png"
+    ],
+    "id_category": "4",
+    "id_group_category": "3",
+    "createdAt": {
+      "$date": "2025-01-03T05:27:26.827Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:27:26.827Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 20,
+    "name": "Mini Ecobooster (Germany )",
+    "masp": "",
+    "series": "HH-1049C",
+    "status": "active",
+    "slug": "Mini-Ecobooster-(Germany-)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/CGbQxtNsboc?si=atsE12Xw0zDIb72W",
+    "sale_price": 0,
+    "content": "<p><strong>- Made in Germany</strong><br />\r\n- Manufactured by Neoperl in Germany<br />\r\n- Default setting is water saving mode; press upright for high flow.<br />\r\n- M22 female thread housing, with M22 &gt; M24 male thread adaptor.<br />\r\n- Water saving mode : Approx 5 L/M. High flow is around 10 L/M.<br />\r\n&nbsp;</p>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882226/md20_image_storage/j1kb8DEi94wHDefmtLv4mlWjabPXVn4Ut9Pf9cq5xewryCLuqGwtfDAwP6nbTiZdSDpUwiLjLnlTFg1wPAnGFJGT4IL0wbvrquP.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882227/md20_image_storage/mKJORPmEYNE7DQktTBEissJx3sUNBat458avaVQC0AJWK8zO2q8uwR5PYOTQ4i86m6vS4b0Xk6fSYMgX2OrtL1z2Sl2GM3IKcif.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882227/md20_image_storage/KHJyBncQ3FmpeeZDRUNXIy5CPyf1diREy3qZe0FTiMjxNXw05MDS4oNV35cMQ32J4Av5guBadvilwrkV5e6ow0kJw2JMSfBGgmr.png"
+    ],
+    "id_category": "4",
+    "id_group_category": "1",
+    "createdAt": {
+      "$date": "2025-01-03T05:30:27.742Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:30:27.742Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 21,
+    "name": "Chromalux Zero (China)",
+    "masp": "",
+    "series": "HH-1032B",
+    "status": "active",
+    "slug": "Chromalux-Zero-(China)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "https://www.youtube.com/embed/OnyGPHUwqDg?si=kmNxI-MNA9vSRShq",
+    "sale_price": 1,
+    "content": "<p>- Black with Black cones<br />\r\n- Environmental friendly materials<br />\r\n- New briaded hose outlook &amp; ultra light<br />\r\n- Machine washable<br />\r\n- 1.5m, anti-twist<br />\r\n- Meet 2021 German &amp; Swiss drinking water requirements<br />\r\n- Manufactured by Neoperl in China with German technology<br />\r\n- Include a wate saving 9 L/M flow regulator</p>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882337/md20_image_storage/98dA6AVrvFQltY4iB7MqaaGiAvvHojziVjJ4W65ptaJBsmMxl1yosAIQ7axHYMBhCDmzvkJAZk70MVTwvM38qA0Kov9Ihk2l5Kh.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882338/md20_image_storage/dhHotDdmZ454joYHpZ8sqt2q6v5JkU9ZmYTdiP99UgbUGgQwFxOCNntEPe0k1jLmeJKExwHJ2ZqxwMVdq1Kq2DElfABDPZJe1Me.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882338/md20_image_storage/Pda4KHJYiwTSJ5dabKBDFytbuHmPPM0z9s5K95nQgVhuZ6wkycZq80MY8vDCnFrzHgpHWkRwfpbqHm88kf7eAhQ9dwd1o13jkpt.png"
+    ],
+    "id_category": "3",
+    "id_group_category": "6",
+    "createdAt": {
+      "$date": "2025-01-03T05:32:18.803Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:32:18.803Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 22,
+    "name": "Chromalux Zero (China)",
+    "masp": "",
+    "series": "HH-1036",
+    "status": "active",
+    "slug": "Chromalux-Zero-(China)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "",
+    "sale_price": 1,
+    "content": "<p>- Silver Stainless with Chromed cones<br />\r\n- Environmental friendly materials<br />\r\n- New briaded hose outlook &amp; ultra light<br />\r\n- Machine washable<br />\r\n- 1.5m, anti-twist<br />\r\n- Meet 2021 German &amp; Swiss drinking water requirements<br />\r\n- Manufactured by Neoperl in China with German technology<br />\r\n- Include a wate saving 9 L/M flow regulator</p>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882495/md20_image_storage/BXWqszS7MfAm8ED9gaG5NlSVpv2nOMG65LNAlaQ1B5JUIPe9HU0TAvBAewNocGE3QBdRP1ClAJlxBBcZmTY2bWYJpKPdRtKdXws.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882495/md20_image_storage/g3R25shNlmmLgWpqSpZMNKseQj3VAvrqi5ALKny5N6pz9FBxO0VbxzRmwwMP3dzzVc46IHM2d0KXAvhvZJa70uop2hS7c3dEnM1.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882495/md20_image_storage/TSdTYTjoj958jdbM73O9sKFkPONJTGdcib4Dy75LAsKu6Oj0KDwFaNGMnn6R900vHiTYUPm3fWxnW4SRGlifq9SFAW7X1b2vUpi.webp"
+    ],
+    "id_category": "1",
+    "id_group_category": "6",
+    "createdAt": {
+      "$date": "2025-01-03T05:34:56.468Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:34:56.468Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 23,
+    "name": "SPX (China)",
+    "masp": "",
+    "series": "HH-1041",
+    "status": "active",
+    "slug": "SPX-(China)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "",
+    "sale_price": 1,
+    "content": "<p>- 1/2&quot; x 1/2&quot; DN8<br />\r\n- 60 cm<br />\r\n- Meets drinking water regulations worldwide<br />\r\n- PA Outer hose, non rusting<br />\r\n- PE Inner hose, no foul smell &amp; more hygenic<br />\r\n- Manufactured by Neoperl in China with German technology.<br />\r\n- Widely used by most of the international brands<br />\r\n&nbsp;</p>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882640/md20_image_storage/n5cCrSxNaPxx42v0OI4Fsc7KEpolpQUrIEztSzctn8fLPRCUOIyd3CdpQ7NWzpczRrQThH9N14F3wKMrVWSnELZQDYgfvG6ggoG.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882640/md20_image_storage/hxM4N4hIEpwz81WS20PpwnUJVP8zMa95O4ga36aalBDK0P8jx2WCSbIlWLWTFDsGnkHF2PgBmsmUiPwkntRLLkMC4Zd14ZvZss5.webp",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882641/md20_image_storage/rLpbjt6l8yZqEnPkQFwI5NIE0tBzrooyQvEC9jTSrDA2iZiXnE3vTyvpvRXVyYHp6x67CHWKzO3iI5EWE4DNiP063mrMkPJ03GZ.png"
+    ],
+    "id_category": "4",
+    "id_group_category": "4",
+    "createdAt": {
+      "$date": "2025-01-03T05:37:21.728Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:37:21.728Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 24,
+    "name": "Mateu EPDM (ThaiLand)",
+    "masp": "",
+    "series": "TBA",
+    "status": "active",
+    "slug": "Mateu-EPDM-(ThaiLand)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "",
+    "sale_price": 1,
+    "content": "<p>- 1/2 f&nbsp;PA nut x 1/2 f brass nut DN8. 40cm<br />\r\n- fits cold facuet &gt;50⁰C<br />\r\n&#39;- PA Outliner<br />\r\n- EPDM Outliner<br />\r\n- Manufacturerd by Neoperl in Thailand with German technolog</p>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882748/md20_image_storage/uZw0poGvkESjtFeD4NDScBjiot4EnkPqdgJAqCWmVVv7zjHvVFmKNTKyAOa1CLEX5r2pXVdLxnmMzrs2hs1mLpUPBdBlJAsy9FS.webp",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882748/md20_image_storage/FjlYgvJu18WwEzJMGu5ztAvtgxqA1US1l5WVG82uJ2hmnEIoXBeHfWUHJl9cFwWO4rsTer3P74IRk3UQapyb7jC8o5EjK9hkw4s.png",
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882748/md20_image_storage/q1055blUFhggBAfaP8Sb1DFBMUYvUUHywwaQlXVUvnLoHyz6B7oGhr40lVhYsvsnUPakHCanKknRySmLjOK9py5ZxmKxJJgFpp4.png"
+    ],
+    "id_category": "4",
+    "id_group_category": "4",
+    "createdAt": {
+      "$date": "2025-01-03T05:39:09.331Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:39:09.331Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": 25,
+    "name": "3D swivel adaptor(China)",
+    "masp": "",
+    "series": "",
+    "status": "active",
+    "slug": "3D-swivel-adaptor(China)",
+    "ordering": 1,
+    "quantity": 1,
+    "price": 1,
+    "link_shopee": "",
+    "link_ytb": "",
+    "sale_price": 1,
+    "content": "<p>Chất liệu đồng 100% - Xoay 780oC<br />\r\nC&oacute; dual stream - Kh&ocirc;ng c&oacute; dual stream</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "arrCheck": [],
+    "avatar": [
+      "https://res.cloudinary.com/nguyenduchuy782/image/upload/v1735882985/md20_image_storage/n9B1YY81sVprM4RgSUZXvJ8KYEb0br4ChY7H5IU2y4QuUf8jdZvfQD2oW5l19hFdvPM7KH5k58KKKXQJRUtVNJejVzm6z2oQxuW.webp"
+    ],
+    "id_category": "1",
+    "id_group_category": "7",
+    "createdAt": {
+      "$date": "2025-01-03T05:43:06.433Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-03T05:43:06.433Z"
+    },
+    "__v": 0
+  }
+]
