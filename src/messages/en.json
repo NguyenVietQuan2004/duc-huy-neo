@@ -1,0 +1,262 @@
+{
+  "BestSellerProducts": {
+    "title": "BEST SELLING PRODUCTS"
+  },
+  "DacTrung": {
+    "title": "NEOPERL FEATURES",
+
+    "watertrainLine1": "WATER GUIDING SYSTEM",
+    "watertrainLine2": "PERFECT WATER FLOW",
+
+    "learnMore": "Learn more",
+
+    "faucetLine1": "A new standard for",
+    "faucetLine2": "faucet control solutions",
+
+    "exploreTitle": "Discover water-saving accessory solutions for your home",
+
+    "start": "Start"
+  },
+  "DongNhanSamCoDac": {
+    "title": "WATER SAVING COLLECTION",
+
+    "productTitle1": "Products",
+    "productTitle2": "for water and energy saving"
+  },
+
+  "ProductItem": {
+    "addToCart": "Add to cart"
+  },
+
+  "SaleProducts": {
+    "title": "PROMOTIONAL PRODUCTS"
+  },
+
+  "About": {
+    "title": "ADVANCING",
+    "title2": "WATER TECHNOLOGY",
+    "title3": "AND SUSTAINABILITY",
+
+    "purpose": "OUR MISSION",
+
+    "purposeDescription1": "Neoperl believes that every drop of water matters.",
+    "purposeDescription2": "We combine over 60 years of German-Swiss expertise with modern technology",
+    "purposeDescription3": "to create smart water-saving solutions that deliver perfect water flow",
+    "purposeDescription4": "and sustainability for every living space.",
+
+    "beliefMenu": "OUR BELIEF",
+    "technologyMenu": "OUR TECHNOLOGY",
+    "innovationMenu": "OUR INNOVATION",
+    "createdMenu": "CREATED BY NEOPERL",
+    "journeyMenu": "OUR JOURNEY",
+
+    "beliefTitle": "OUR BELIEF",
+
+    "beliefDescription1": "We believe in smart and sustainable water technology.",
+    "beliefDescription2": "Neoperl focuses not only on appearance but also on optimizing every drop of water,",
+    "beliefDescription3": "solving waste issues from the root.",
+    "beliefDescription4": "For us, a good product must ensure drinking water quality,",
+    "beliefDescription5": "save resources, and provide a perfect user experience.",
+    "beliefDescription6": "That is why Neoperl pioneers world-leading aerator and flow regulator solutions.",
+
+    "technologyTitle": "OUR TECHNOLOGY",
+
+    "technologyDescription1": "Aerators are the “heart” of modern faucets.",
+    "technologyDescription2": "Neoperl has researched and perfected this technology since 1959.",
+    "technologyDescription3": "From splash-free water flow to integrating PCA (Pressure Compensating Aerator) water-saving technology,",
+    "technologyDescription4": "we continuously improve to achieve maximum performance with minimal water usage.",
+    "technologyDescription5": "Every component is carefully selected and strictly tested to ensure durability and outstanding efficiency.",
+
+    "innovationTitle": "OUR INNOVATION",
+
+    "innovationDescription1": "The Neoperl Research & Development Center in Müllheim (Germany) perfectly combines European tradition with modern technology.",
+    "innovationDescription2": "Since the 1970s, Neoperl has led the market with low-noise aerators.",
+    "innovationDescription3": "We continuously develop water-saving products, check valves, shower systems, and smart hose connectors.",
+    "innovationDescription4": "More than 60 years of experience enables Neoperl to deliver breakthrough solutions that meet the strictest global standards.",
+
+    "createdTitle": "CREATED BY NEOPERL",
+
+    "createdDescription1": "Every Neoperl product is the result of German-Swiss precision and a commitment to sustainability.",
+    "createdDescription2": "We create solutions that are not only durable over time but also environmentally friendly.",
+    "createdDescription3": "From kitchens to bathrooms, Neoperl accompanies millions of families and projects worldwide."
+  },
+
+  "Phan1": {
+    "stateReady": "AVAILABILITY",
+    "inStock": "In stock",
+    "outStock": "Out of stock",
+
+    "price": "PRICE",
+
+    "currentValue": "Current value",
+
+    "start": "Start"
+  },
+
+  "Phan2": {
+    "viewAs": "VIEW AS",
+
+    "itemsPerPage": "ITEMS PER PAGE",
+
+    "sortBy": "SORT BY"
+  },
+
+  "Category": {
+    "home": "Home",
+    "viewAs": "VIEW AS",
+    "itemsPerPage": "ITEMS PER PAGE",
+    "sortBy": "SORT BY",
+    "filter": "Filter",
+    "sort": "Sort",
+    "featuredProducts": "Featured products",
+
+    "empty": {
+      "productCount": "0 products",
+      "title1": "EMPTY COLLECTION USE FEWER FILTERS",
+      "title2": "OR CLEAR ALL"
+    },
+
+    "breadcrumb": {
+      "category": "RESILIENCE/VITALITY"
+    },
+
+    "defaultSort": "Best selling"
+  },
+
+  "ContactClient": {
+    "contact": "CONTACT",
+
+    "bannerTitle": "Do you have a question or comment? Would you like to know more about Neoperl and our products?",
+
+    "address": "Address: 46F Nam Cao Street, Quarter 8, Tang Nhon Phu Ward, Ho Chi Minh City, Vietnam.",
+
+    "phoneLabel": "Contact phone:",
+
+    "centerTitle1": "LEAVE A MESSAGE FOR",
+    "centerTitle2": "THE CENTER"
+  },
+
+  "ContactForm": {
+    "success": "Contact sent successfully!",
+    "submitLoading": "Sending...",
+    "submit": "SEND MESSAGE",
+
+    "placeholders": {
+      "fullName": "Full name *",
+      "phoneNumber": "Phone number *",
+      "email": "Email *",
+      "message": "Message *"
+    },
+
+    "validation": {
+      "fullNameRequired": "Please enter your full name",
+      "phoneNumberRequired": "Please enter your phone number",
+      "emailRequired": "Please enter your email",
+      "messageRequired": "Please enter your message",
+      "invalidEmail": "Invalid email",
+      "submitError": "An error occurred, please try again!"
+    }
+  },
+
+  "ProductDetail": {
+    "home": "Home",
+    "products": "Products",
+    "payLater": "Pay later up to 12 months with",
+    "discountText1": "Save up to",
+    "discountText2": "when paying via",
+    "viewMore": "view more",
+    "subtotal": "Subtotal",
+    "quantity": "Quantity",
+    "addToCart": "Add to cart",
+    "addToWishlist": "Add to wishlist",
+    "relatedProducts": "Related products",
+    "description": "Description",
+    "review": "Review",
+    "writeReview": "Write a review",
+    "beFirstReview": "Be the first to",
+    "writeAReview": "write a review"
+  },
+
+  "SearchClient": {
+    "bestSeller": "Best selling",
+    "searchResult": "FOUND {count} RESULTS FOR \"{query}\"",
+    "searchPlaceholder": "Search",
+    "pagesAndPosts": "Pages and posts",
+    "screenReaderTitle": "Use website in screen-reader mode",
+    "screenReaderDescription": "Screen-reader guide, feedback, and issue reporting | New window\nSkip to content ↵ ENTER\nNeoperl ensures users can access information about drinking water technology, sustainability, and product innovation through accessible interfaces and assistive technologies.",
+    "coreContent": "...",
+    "exploreGuide": "Explore accessibility guide"
+  },
+
+  "Footer": {
+    "companyName": "DSE Trading & Services Co., Ltd.",
+    "address": "Address: 46F Nam Cao Street, Quarter 8, Tang Nhon Phu Ward, Ho Chi Minh City, Vietnam.",
+    "taxCode": "Tax code: 0319523727",
+    "copyright": "© 2026 DSE Trading & Services Co., Ltd. All rights reserved."
+  },
+
+  "Header": {
+    "waterSavingCalculator": "Water Saving Calculator"
+  },
+
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+
+  "SearchMobile": {
+    "search": "Search",
+    "openSearch": "Open search",
+    "closeSearch": "Close search"
+  },
+
+  "carousel": {
+    "0": {
+      "text1": "Original spare parts for kitchen and bathroom faucets and showers"
+    },
+    "1": {
+      "text1": "Diamond",
+      "text2": "The DIAMOND aerator creates a refined, diamond-like stream pattern for a luxurious water experience. [amazon.com]",
+      "text3": "Find out more"
+    }
+  },
+
+  "categories": {
+    "1": "Faucet aerators",
+    "2": "Water filters",
+    "3": "Flow control valves",
+    "4": "Water supply hose",
+    "5": "Flexible hose",
+    "6": "Shower hose",
+    "7": "Accessories"
+  },
+
+  "categoriesProduct": {
+    "1": "Wellness line",
+    "2": "Designer line",
+    "3": "Stylish",
+    "4": "Water-saving line",
+    "5": "Health & Safety"
+  },
+
+  "header": {
+    "products": "Products",
+    "groupCategories": "Product groups",
+    "categories": "Categories"
+  },
+
+  "sort": {
+    "featured": "Featured",
+    "bestSeller": "Best seller",
+    "az": "A - Z",
+    "za": "Z - A",
+    "priceLowHigh": "Price low to high",
+    "priceHighLow": "Price high to low",
+    "newToOld": "Newest",
+    "oldToNew": "Oldest"
+  },
+  "Reward": {
+    "rewards": "Rewards"
+  }
+}

@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { SearchIcon } from "../../public/icons";
 import { useRouter } from "next/navigation";
-
+import { useTranslations } from "next-intl";
 function Search({
   isMobile,
   setisShowSearchMobile,
@@ -21,6 +21,7 @@ function Search({
     }
     router.push(`/search?q=${searchValue}`);
   };
+  const t = useTranslations("SearchMobile");
   return (
     <form onSubmit={handleSubmit}>
       <div
@@ -31,7 +32,8 @@ function Search({
         <input
           value={searchValue}
           onChange={(e) => setSearchValue(e.target.value)}
-          placeholder="Tìm kiếm"
+          // placeholder="Tìm kiếm"
+          placeholder={t("search")}
           className={`${
             isMobile ? "py-4 px-2" : " px-[10px] py-[4px]"
           } w-[130px] placeholder:text-[12px] text-[12px] focus:placeholder-transparent placeholder:text-zinc-900 bg-transparent outline-none border-none `}

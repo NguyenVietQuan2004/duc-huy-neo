@@ -5,8 +5,11 @@ import Header from "@/components/header";
 import { Playfair_Display } from "next/font/google";
 import HeaderMobile from "@/components/header-mobile";
 import { ThemeProvider } from "@/components/theme-provider";
-import { GiftIcon, MessageIcon } from "../../public/icons";
+import { NextIntlClientProvider } from "next-intl";
 
+export function generateStaticParams() {
+  return [{ locale: "vi" }, { locale: "en" }];
+}
 const playfairDisplay = Playfair_Display({
   subsets: ["latin"],
   variable: "--font-playfair",
@@ -26,24 +29,18 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning={true}>
       <body className={`${playfairDisplay.className}  antialiased`}>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
-          <div className="hidden lg:block">
-            <Header />
-          </div>
-          <div className="block lg:hidden">
-            <HeaderMobile />
-          </div>
-          {children} <Footer />
-          <div className="fixed animate-shake  cursor-pointer bottom-20 right-2 lg:right-6 bg-[#eb1c23] rounded-full w-12 h-12 lg:w-16 lg:h-16 flex items-center justify-center">
-            <MessageIcon className="lg:w-[46px] lg:h-[46px] h-9 w-9" />
-          </div>
-          <div className="fixed cursor-pointer bottom-6 right-2 lg:right-6 py-[6px] pl-9 pr-2 flex items-center justify-center bg-white text-sm shadow-md rounded-full">
-            <span className="text-[12px]">REWARDS</span>
-            <div className="bg-black ml-6 rounded-full w-9 h-9 flex items-center justify-center">
-              <GiftIcon />
+        <NextIntlClientProvider>
+          {" "}
+          <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
+            <div className="hidden lg:block">
+              <Header />
             </div>
-          </div>
-        </ThemeProvider>
+            <div className="block lg:hidden">
+              <HeaderMobile />
+            </div>
+            {children} <Footer />
+          </ThemeProvider>
+        </NextIntlClientProvider>
       </body>
     </html>
   );

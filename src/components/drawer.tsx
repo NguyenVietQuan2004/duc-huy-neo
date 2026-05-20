@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 
 import DrawerItem from "./drawer-item";
 import { CloseIcon } from "../../public/icons";
-import { header } from "@/app/(trangchu)/_components/data-new";
+import { header } from "@/app/[locale]/(trangchu)/_components/data-new";
 import Link from "next/link";
 
 interface DrawerProps {

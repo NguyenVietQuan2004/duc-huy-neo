@@ -5,15 +5,17 @@ import { useRouter } from "next/navigation";
 import { ChevronDown, ChevronRight } from "lucide-react";
 
 import DrawerItem1 from "./drawer-item1";
+import { useTranslations } from "next-intl";
 
 function DrawerItem({ item, index }: { item: any; index: number }) {
   const router = useRouter();
   const [isShowCollapse1, setisShowCollapse1] = useState(false);
+  const t = useTranslations();
 
   return (
     <div className="relative border-b py-3 pl-5 pr-3 ">
       <div className="flex items-center justify-between" onClick={() => setisShowCollapse1(!isShowCollapse1)}>
-        <span> {item.key}</span>
+        <span> {t(item.key)}</span>
         {item.value.length > 0 ? (
           isShowCollapse1 ? (
             <ChevronDown className="stroke-[1.5]" />

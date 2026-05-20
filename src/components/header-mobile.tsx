@@ -7,6 +7,7 @@ import { useEffect, useRef, useState } from "react";
 
 import Drawer from "./drawer";
 import SearchMobile from "./search-mobile";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 function HeaderMobile() {
   const [isShowNavbarMobile, setIsShowNavbarMobile] = useState(false);
@@ -17,7 +18,6 @@ function HeaderMobile() {
   useEffect(() => {
     const handleScroll = () => {
       const currentScrollY = window.scrollY;
-      console.log(currentScrollY);
       // Kiểm tra nếu vị trí hiện tại nhỏ hơn vị trí trước đó, nghĩa là cuộn lên
       if (currentScrollY < prevScrollY.current) {
         setIsScrolled(true);
@@ -58,7 +58,9 @@ function HeaderMobile() {
                 className="w-[70px] object-cover"
               />
             </Link>
-            <div></div>
+            <div>
+              <LanguageSwitcher />
+            </div>
           </div>
         </div>
       </header>

@@ -1,0 +1,259 @@
+{
+  "BestSellerProducts": {
+    "title": "SẢN PHẨM BÁN CHẠY"
+  },
+  "DacTrung": {
+    "title": "Đặc Trưng Của Neoperl",
+
+    "watertrainLine1": "HỆ THỐNG DẪN NƯỚC",
+    "watertrainLine2": "DÒNG NƯỚC ĐÚNG QUỸ ĐẠO",
+
+    "learnMore": "Tìm hiểu thêm",
+
+    "faucetLine1": "Tiêu chuẩn mới cho",
+    "faucetLine2": "giải pháp điều khiển vòi nước",
+
+    "exploreTitle": "Khám phá giải pháp phụ kiện tiết kiệm nước cho ngôi nhà của bạn",
+
+    "start": "Bắt đầu"
+  },
+  "DongNhanSamCoDac": {
+    "title": "DÒNG TIẾT KIỆM NƯỚC",
+
+    "productTitle1": "Sản phẩm",
+    "productTitle2": "tiết kiệm nước và năng lượng"
+  },
+  "ProductItem": {
+    "addToCart": "Thêm vào giỏ hàng"
+  },
+  "SaleProducts": {
+    "title": "SẢN PHẨM ƯU ĐÃI"
+  },
+
+  "About": {
+    "title": "KẾ THỪA SỰ TIÊN TIẾN",
+    "title2": "TRONG CÔNG NGHỆ NƯỚC",
+    "title3": "VÀ BỀN VỮNG",
+
+    "purpose": "SỨ MỆNH CỦA CHÚNG TÔI",
+
+    "purposeDescription1": "Neoperl tin rằng mỗi giọt nước đều quý giá.",
+    "purposeDescription2": "Chúng tôi kết hợp hơn 60 năm kinh nghiệm Đức - Thụy Sĩ với công nghệ hiện đại",
+    "purposeDescription3": "để tạo ra những giải pháp tiết kiệm nước thông minh, mang lại dòng chảy hoàn hảo",
+    "purposeDescription4": "và bền vững cho mọi không gian sống.",
+
+    "beliefMenu": "NIỀM TIN CỦA CHÚNG TÔI",
+    "technologyMenu": "CÔNG NGHỆ CỦA CHÚNG TÔI",
+    "innovationMenu": "SỰ ĐỔI MỚI CỦA CHÚNG TÔI",
+    "createdMenu": "ĐƯỢC TẠO RA BỞI NEOPERL",
+    "journeyMenu": "HÀNH TRÌNH CỦA CHÚNG TÔI",
+
+    "beliefTitle": "NIỀM TIN CỦA CHÚNG TÔI",
+
+    "beliefDescription1": "Chúng tôi tin vào công nghệ nước thông minh và bền vững.",
+    "beliefDescription2": "Neoperl không chỉ tập trung vào bề mặt mà còn đi sâu vào việc tối ưu hóa từng giọt nước,",
+    "beliefDescription3": "giải quyết vấn đề lãng phí từ gốc rễ.",
+    "beliefDescription4": "Với chúng tôi, một sản phẩm tốt phải đảm bảo chất lượng nước uống,",
+    "beliefDescription5": "tiết kiệm tài nguyên và mang lại trải nghiệm hoàn hảo cho người dùng.",
+    "beliefDescription6": "Đó là lý do Neoperl tiên phong phát triển các giải pháp aerator và flow regulator hàng đầu thế giới.",
+
+    "technologyTitle": "CÔNG NGHỆ CỦA CHÚNG TÔI",
+
+    "technologyDescription1": "Aerator là \"trái tim\" của vòi nước hiện đại.",
+    "technologyDescription2": "Neoperl đã nghiên cứu và hoàn thiện công nghệ này từ những năm 1959.",
+    "technologyDescription3": "Từ việc tạo ra dòng nước không bắn tóe đến tích hợp công nghệ tiết kiệm nước PCA (Pressure Compensating Aerator),",
+    "technologyDescription4": "chúng tôi liên tục cải tiến để mang lại hiệu suất cao nhất với lượng nước tối thiểu.",
+    "technologyDescription5": "Mỗi linh kiện đều được chọn lọc kỹ lưỡng, kiểm tra nghiêm ngặt để đảm bảo độ bền và hiệu quả vượt trội.",
+
+    "innovationTitle": "SỰ ĐỔI MỚI CỦA CHÚNG TÔI",
+
+    "innovationDescription1": "Trung tâm Nghiên cứu & Phát triển Neoperl tại Müllheim (Đức) là nơi kết hợp hoàn hảo giữa truyền thống châu Âu và công nghệ hiện đại.",
+    "innovationDescription2": "Từ những năm 1970, Neoperl đã dẫn đầu với aerator ít tiếng ồn.",
+    "innovationDescription3": "Chúng tôi liên tục phát triển các sản phẩm tiết kiệm nước, van một chiều, vòi sen và ống nối thông minh.",
+    "innovationDescription4": "Hơn 60 năm kinh nghiệm giúp Neoperl mang đến những giải pháp đột phá, đáp ứng tiêu chuẩn khắt khe nhất trên toàn cầu.",
+
+    "createdTitle": "ĐƯỢC TẠO RA BỞI NEOPERL",
+
+    "createdDescription1": "Mỗi sản phẩm Neoperl là kết tinh của sự chính xác Đức - Thụy Sĩ và cam kết bền vững.",
+    "createdDescription2": "Chúng tôi tạo ra những giải pháp không chỉ bền bỉ theo thời gian mà còn thân thiện với môi trường.",
+    "createdDescription3": "Từ nhà bếp đến phòng tắm, Neoperl đồng hành cùng hàng triệu gia đình và dự án trên toàn thế giới."
+  },
+
+  "Phan1": {
+    "stateReady": "TRẠNG THÁI SẴN SÀNG",
+    "inStock": "Còn hàng",
+    "outStock": "Hết hàng",
+
+    "price": "GIÁ",
+
+    "currentValue": "Giá trị hiện tại",
+
+    "start": "Bắt đầu"
+  },
+
+  "Phan2": {
+    "viewAs": "XEM NHƯ",
+
+    "itemsPerPage": "CÁC MỤC TRÊN MỖI TRANG",
+
+    "sortBy": "SẮP XẾP THEO"
+  },
+
+  "Category": {
+    "home": "Nhà",
+    "viewAs": "XEM NHƯ",
+    "itemsPerPage": "CÁC MỤC TRÊN MỖI TRANG",
+    "sortBy": "SẮP XẾP THEO",
+    "filter": "Lọc",
+    "sort": "Sắp xếp",
+    "featuredProducts": "Sản phẩm nổi bật",
+
+    "empty": {
+      "productCount": "0 sản phẩm",
+      "title1": "BỘ SƯU TẬP TRỐNG SỬ DỤNG ÍT BỘ LỌC HƠN",
+      "title2": "HOẶC QUÉT SẠCH TẤT CẢ"
+    },
+
+    "breadcrumb": {
+      "category": "RESILIENCE/VITALITY"
+    },
+
+    "defaultSort": "Bán chạy nhất"
+  },
+  "ContactClient": {
+    "contact": "LIÊN HỆ",
+
+    "bannerTitle": "Bạn có câu hỏi hoặc góp ý? Bạn muốn tìm hiểu thêm về Neoperl và các sản phẩm của chúng tôi?",
+
+    "address": "Địa chỉ: 46F đường Nam Cao, Khu phố 8, phường Tăng Nhơn Phú, Tp. Hồ Chí Minh, Việt Nam.",
+
+    "phoneLabel": "SĐT liên hệ:",
+
+    "centerTitle1": "ĐỂ LẠI LỜI NHẮN CHO",
+    "centerTitle2": "TRUNG TÂM"
+  },
+
+  "ContactForm": {
+    "success": "Gửi liên hệ thành công!",
+    "submitLoading": "Đang gửi...",
+    "submit": "GỬI LỜI NHẮN",
+
+    "placeholders": {
+      "fullName": "Họ và tên *",
+      "phoneNumber": "Số điện thoại *",
+      "email": "Email *",
+      "message": "Lời nhắn *"
+    },
+
+    "validation": {
+      "fullNameRequired": "Vui lòng nhập họ tên",
+      "phoneNumberRequired": "Vui lòng nhập số điện thoại",
+      "emailRequired": "Vui lòng nhập email",
+      "messageRequired": "Vui lòng nhập lời nhắn",
+      "invalidEmail": "Email không hợp lệ",
+      "submitError": "Đã có lỗi xảy ra, vui lòng thử lại!"
+    }
+  },
+
+  "ProductDetail": {
+    "home": "Nhà",
+    "products": "Sản phẩm",
+    "payLater": "Trả sau đến 12 tháng với",
+    "discountText1": "Giảm đến",
+    "discountText2": "khi thanh toán qua",
+    "viewMore": "xem thêm",
+    "subtotal": "Tổng phụ",
+    "quantity": "Số lượng",
+    "addToCart": "Thêm vào giỏ hàng",
+    "addToWishlist": "Thêm vào danh sách yêu thích",
+    "relatedProducts": "Sản phẩm liên quan",
+    "description": "Mô tả",
+    "review": "Đánh giá",
+    "writeReview": "Viết đánh giá",
+    "beFirstReview": "Hãy là người đầu tiên",
+    "writeAReview": "viết đánh giá"
+  },
+
+  "SearchClient": {
+    "bestSeller": "Bán chạy nhất",
+    "searchResult": "TÌM THẤY {count} KẾT QUẢ CHO \"{query}\"",
+    "searchPlaceholder": "Tìm kiếm",
+    "pagesAndPosts": "Các trang và bài viết",
+    "screenReaderTitle": "Sử dụng website ở chế độ trình đọc màn hình",
+    "screenReaderDescription": "Hướng dẫn trình đọc màn hình, phản hồi và báo cáo sự cố | Cửa sổ mới\nBỏ qua đến nội dung ↵ ENTER\nNeoperl đảm bảo người dùng có thể truy cập thông tin về công nghệ nước uống, tính bền vững và đổi mới sản phẩm thông qua giao diện dễ tiếp cận và các công nghệ hỗ trợ.",
+    "coreContent": "...",
+    "exploreGuide": "Khám phá hướng dẫn hỗ trợ truy cập"
+  },
+
+  "Footer": {
+    "companyName": "Công ty TNHH Thương Mại & Dịch Vụ DSE",
+    "address": "Địa chỉ: 46F đường Nam Cao, Khu phố 8, phường Tăng Nhơn Phú, Tp. Hồ Chí Minh, Việt Nam.",
+    "taxCode": "MST: 0319523727",
+    "copyright": "© 2026 DSE Trading & Services Co., Ltd. All rights reserved."
+  },
+
+  "Header": {
+    "waterSavingCalculator": "Công cụ tính tiết kiệm nước"
+  },
+
+  "Navbar": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ"
+  },
+
+  "SearchMobile": {
+    "search": "Tìm kiếm",
+    "openSearch": "Mở tìm kiếm",
+    "closeSearch": "Đóng tìm kiếm"
+  },
+
+  "carousel": {
+    "0": {
+      "text1": "Linh kiện chính hãng cho vòi bếp và phòng tắm"
+    },
+    "1": {
+      "text1": "Kim cương",
+      "text2": "Công nghệ DIAMOND tạo dòng nước tinh xảo, sang trọng.",
+      "text3": "Tìm hiểu thêm"
+    }
+  },
+
+  "categories": {
+    "1": "Đầu vòi nước",
+    "2": "Đầu lọc nước",
+    "3": "Van điều chỉnh lưu lượng",
+    "4": "Dây cấp nước",
+    "5": "Dây sịt",
+    "6": "Shower hose",
+    "7": "Phụ kiện"
+  },
+
+  "categoriesProduct": {
+    "1": "Dòng wellness",
+    "2": "Dòng Designer",
+    "3": "Stylish",
+    "4": "Dòng tiết kiệm nước",
+    "5": "Heathly & Safety"
+  },
+
+  "header": {
+    "products": "Sản phẩm",
+    "groupCategories": "Nhóm danh mục",
+    "categories": "Danh mục"
+  },
+
+  "sort": {
+    "featured": "Nổi bật",
+    "bestSeller": "Bán chạy nhất",
+    "az": "A - Z",
+    "za": "Z - A",
+    "priceLowHigh": "Giá thấp đến cao",
+    "priceHighLow": "Giá cao đến thấp",
+    "newToOld": "Ngày mới đến cũ",
+    "oldToNew": "Ngày cũ đến mới"
+  },
+  "Reward": {
+    "rewards": "Ưu đãi"
+  }
+}
