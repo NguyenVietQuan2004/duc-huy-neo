@@ -118,28 +118,28 @@ export const header = {
   ],
 };
 
-export const footer = [
-  {
-    key: "VỀ CHÚNG TÔI",
-    value: ["Niềm Tin Thương Hiệu", "Chiến Dịch Thương Hiệu", "Bài Đăng Sulwhasoo"],
-  },
-  {
-    key: "GHÉ THĂM SULWHASOO",
-    value: ["Tìm Cửa Hàng"],
-  },
-  {
-    key: "DỊCH VỤ KHÁCH HÀNG",
-    value: ["Câu Hỏi Thường Gặp", "Liên Lạc Với Chúng Tôi", "Liên Lạc Với Chúng Tôi"],
-  },
-  {
-    key: "THÔNG TIN",
-    value: [
-      "Chính Sách Bảo Mật",
-      "Điều Kiện & Thời Hạn Dịch Vụ",
-      "Chính Sách Hoàn Trả",
-      "Chính Sách Vận Chuyển",
-      "Điều Khoản & Điều Kiện Cho Thành Viên",
-      "SITEMAP",
-    ],
-  },
-];
+// export const footer = [
+//   {
+//     key: "VỀ CHÚNG TÔI",
+//     value: ["Niềm Tin Thương Hiệu", "Chiến Dịch Thương Hiệu", "Bài Đăng Sulwhasoo"],
+//   },
+//   {
+//     key: "GHÉ THĂM SULWHASOO",
+//     value: ["Tìm Cửa Hàng"],
+//   },
+//   {
+//     key: "DỊCH VỤ KHÁCH HÀNG",
+//     value: ["Câu Hỏi Thường Gặp", "Liên Lạc Với Chúng Tôi", "Liên Lạc Với Chúng Tôi"],
+//   },
+//   {
+//     key: "THÔNG TIN",
+//     value: [
+//       "Chính Sách Bảo Mật",
+//       "Điều Kiện & Thời Hạn Dịch Vụ",
+//       "Chính Sách Hoàn Trả",
+//       "Chính Sách Vận Chuyển",
+//       "Điều Khoản & Điều Kiện Cho Thành Viên",
+//       "SITEMAP",
+//     ],
+//   },
+// ];

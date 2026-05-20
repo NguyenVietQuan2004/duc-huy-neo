@@ -39,7 +39,7 @@ function HeaderMobile() {
     <div>
       <header>
         <div
-          className={` py-4 max-w-[1240px] px-1 mx-auto ${
+          className={` py-1 max-w-[1240px] px-1 mx-auto ${
             isScrolled && "fixed top-0 animate-navbar left-0 right-0 bg-white z-10 shadow-md"
           } `}
         >
@@ -48,13 +48,14 @@ function HeaderMobile() {
               <MenuIcon width={60} onClick={() => setIsShowNavbarMobile(true)} />
               <SearchMobile />
             </div>
-            <Link href="/">
+            <Link href="/" className="">
               <Image
                 alt=""
-                src="https://vn.sulwhasoo.com/cdn/shop/files/sws-logo-img.png?v=1671424779&width=300"
+                src="/images/logo.png"
+                // src="https://vn.sulwhasoo.com/cdn/shop/files/sws-logo-img.png?v=1671424779&width=300"
                 width={500}
                 height={500}
-                className="w-[90px] object-cover"
+                className="w-[70px] object-cover"
               />
             </Link>
             <div></div>

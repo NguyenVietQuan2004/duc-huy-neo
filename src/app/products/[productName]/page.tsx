@@ -50,7 +50,7 @@ function ProductDetail() {
   };
 
   return (
-    <div className="max-w-[1240px] px-2 lg:px-5 mx-auto py-12 pb-32 mt-4 lg:mt-0 ">
+    <div className="max-w-[1240px]  px-2 lg:px-5 mx-auto py-12 pb-32 mt-4 lg:mt-0 ">
       <div className="flex items-center gap-2 text-[12px] text-[#999999] ">
         Nhà <ChevronRight size={14} /> Products <ChevronRight size={14} />{" "}
         <span className="line-clamp-1 whitespace-nowrap">{product.name}</span>
@@ -187,20 +187,12 @@ function ProductDetail() {
           <div className=" items-center gap-8 hidden lg:flex">
             <img alt="" src={currentImage} className="w-[45px] h-[45px] object-cover" />
             <div>
-              <div className="text-[12px] max-w-[400px] line-clamp-1">
-                {" "}
-                |MỚI| Kem Chống Nắng Hằng Ngày Dưỡng Sáng Nâng Tông Sulwhasoo Daily Toneup Sunscreen
-              </div>
-              <div className="text-sm font-semibold">{formatCurrency(1400000)}</div>
+              <div className="text-[12px] max-w-[400px] line-clamp-1"> {product.name}</div>
+              <div className="text-sm font-semibold">{formatCurrency(product.price || 0)}</div>
             </div>
           </div>
 
           <div className="flex w-full lg:w-auto items-center gap-4 ">
-            <div className=" relative hidden lg:flex items-center h-full justify-between p-2 w-[190px] select-none cursor-pointer border">
-              <span className="text-[12px]">50ml</span>
-              <TriangleDownIcon />
-            </div>
-
             <div className=" hidden lg:flex border h-[41.6px]  w-[120px] items-center justify-between">
               <div className="text-2xl px-4 cursor-pointer" onClick={handleMinusQuantity}>
                 -

@@ -41,18 +41,19 @@ function Header() {
 
   return (
     <header>
-      <div className=" py-4 max-w-[1240px] px-5 mx-auto">
+      <div className=" py-4 pb-1 max-w-[1240px] px-5 mx-auto">
         <div className="flex justify-end ">
           <Search />
         </div>
-        <div className="flex cursor-pointer justify-between mt-4">
+        <div className="flex cursor-pointer justify-between mt-1">
           <Link href="/" className="block">
             <Image
               alt=""
-              src="https://vn.sulwhasoo.com/cdn/shop/files/sws-logo-img.png?v=1671424779&width=300"
+              src="/images/logo.png"
+              // src="https://vn.sulwhasoo.com/cdn/shop/files/sws-logo-img.png?v=1671424779&width=300"
               width={500}
               height={500}
-              className="w-[140px] object-cover"
+              className="w-[100px] object-cover"
             />
           </Link>
           <div className="flex items-center gap-6 text-[12px] text-[#323232]">
