@@ -1,27 +1,20 @@
-// import createMiddleware from "next-intl/middleware";
+import { NextResponse } from "next/server";
+import type { NextRequest } from "next/server";
 
-// export default createMiddleware({
-//   locales: ["vi", "en"],
-//   defaultLocale: "vi",
-// });
+export function middleware(req: NextRequest) {
+  const fullUrl = req.url;
 
-// export const config = {
-//   matcher: ["/", "/(vi|en)/:path*"],
-// };
+  console.log("fullur;", fullUrl);
 
-import createMiddleware from "next-intl/middleware";
+  // ❌ bỏ qua domain chính
+  if (fullUrl.includes("dse-vn.com")) {
+    return NextResponse.next();
+  }
 
-export default createMiddleware({
-  locales: ["vi", "en"],
-  defaultLocale: "vi",
+  // ❌ vercel domain -> redirect
+  if (fullUrl.includes("vercel.app")) {
+    return NextResponse.redirect("https://dse-vn.com");
+  }
 
-  // ⚠️ quan trọng: auto detect từ browser (optional)
-  localeDetection: true,
-});
-
-export const config = {
-  matcher: [
-    // bỏ qua next internals + api + files
-    "/((?!api|_next|.*\\..*).*)",
-  ],
-};
+  return NextResponse.next();
+}
