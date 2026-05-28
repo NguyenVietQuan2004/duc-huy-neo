@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://dse-vn.com",
-      "permanent": true
-    }
-  ]
-}
