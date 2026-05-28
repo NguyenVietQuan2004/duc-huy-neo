@@ -13,7 +13,7 @@ export function middleware(req: NextRequest) {
 
   // ❌ vercel domain -> redirect
   if (fullUrl.includes("vercel.app")) {
-    return NextResponse.redirect("https://dse-vn.com");
+    return NextResponse.redirect("https://dse-vn.com/vi");
   }
 
   return NextResponse.next();
